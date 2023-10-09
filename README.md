@@ -67,6 +67,7 @@ for line in lines:
 # Display the result
 ```python
 plt.imshow(edge)
+plt.title('Hough transform')
 plt.axis('off')
 plt.show()
 ```
